@@ -1,0 +1,33 @@
+body{
+    background-image: url(/error.jpg);
+    margin: auto;
+}
+h1{
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+    font-size: 60px;
+    font-family: cursive;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: cursive;
+}
+.button{
+padding: 20px 700px;
+}
+button{
+    background-color: transparent;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 12px 20px;
+    color: white;
+    border: 2px solid white;
+}
+button:hover{
+    border: 4px solid white;
+    transition: .2s;
+    text-decoration: underline 3px;
+}
